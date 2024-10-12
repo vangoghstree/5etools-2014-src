@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>5eTools</title>
+    <link rel="stylesheet" href="path/to/your/style.css">
+</head>
+<body>
+    <h1>Welcome to 5eTools</h1>
+    <p>This site is based on the source code from the <a href="https://github.com/vangoghstree/5etools-2014-src">5etools GitHub repository</a>.</p>
+
+    <!-- Add additional content here, or integrate existing tools/pages from the repo -->
+    
+    <script src="path/to/your/script.js"></script>
+</body>
+</html>
